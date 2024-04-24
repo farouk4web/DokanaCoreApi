@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "5mHGqtmPXeJSEmqEFOIHnzNnD3EM/vL1dyt1KzhdiUQ=",
+  "Source": "Dokana",
+  "BasePath": "_content/Dokana",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Dokana\\wwwroot",
+      "Source": "Dokana",
+      "ContentRoot": "E:\\core\\Dokana\\Dokana\\wwwroot\\",
+      "BasePath": "_content/Dokana",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\core\\Dokana\\Dokana\\wwwroot\\Uploads\\Products\\product.png",
+      "SourceId": "Dokana",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\core\\Dokana\\Dokana\\wwwroot\\",
+      "BasePath": "_content/Dokana",
+      "RelativePath": "Uploads/Products/product.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Products\\product.png"
+    },
+    {
+      "Identity": "E:\\core\\Dokana\\Dokana\\wwwroot\\Uploads\\Users\\user.png",
+      "SourceId": "Dokana",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\core\\Dokana\\Dokana\\wwwroot\\",
+      "BasePath": "_content/Dokana",
+      "RelativePath": "Uploads/Users/user.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Users\\user.png"
+    }
+  ]
+}

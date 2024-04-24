@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "dCTDe8+ytR8t4tQ64tD12yJWNahiWYK2iXE7njHzjhE=",
+  "Source": "Dokana",
+  "BasePath": "_content/Dokana",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Dokana\\wwwroot",
+      "Source": "Dokana",
+      "ContentRoot": "D:\\_personal\\core2024\\core\\New folder\\Dokana\\Dokana\\wwwroot\\",
+      "BasePath": "_content/Dokana",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\_personal\\core2024\\core\\New folder\\Dokana\\Dokana\\wwwroot\\Uploads\\Products\\product.png",
+      "SourceId": "Dokana",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\_personal\\core2024\\core\\New folder\\Dokana\\Dokana\\wwwroot\\",
+      "BasePath": "_content/Dokana",
+      "RelativePath": "Uploads/Products/product.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Products\\product.png"
+    },
+    {
+      "Identity": "D:\\_personal\\core2024\\core\\New folder\\Dokana\\Dokana\\wwwroot\\Uploads\\Users\\user.png",
+      "SourceId": "Dokana",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\_personal\\core2024\\core\\New folder\\Dokana\\Dokana\\wwwroot\\",
+      "BasePath": "_content/Dokana",
+      "RelativePath": "Uploads/Users/user.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Users\\user.png"
+    }
+  ]
+}
